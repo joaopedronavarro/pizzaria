@@ -6,4 +6,6 @@
 
  ##Autores
 
- Desenvolvido pela Zuleika
+<<<<<<< HEAD
+ Desenvolvido pela Zuleika e pelo Pafúncio
+
