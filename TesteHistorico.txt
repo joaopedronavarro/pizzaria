@@ -4,3 +4,4 @@ Exemplo de histórico de versionamento
 - Inserindo nova linha (commit 2)
 - Inserindo nova linha (commit 3)
 - Inserindo nova linha (commit 4)
+- Inserindo nova linha (commit 5)
