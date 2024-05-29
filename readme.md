@@ -6,7 +6,7 @@
 
  ## Prints de telas
 
-![Print da tela inicial] (https://github.com/joaopedronavarro/pizzaria/blob/master/miniaturas/Tela-principal.png)
+![Print da tela inicial](https://github.com/joaopedronavarro/pizzaria/blob/master/miniaturas/Tela-principal.png)
 
  ## Autores
 
